@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <ImageView
+        android:id="@+id/buttonBack"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/baseline_arrow_back_24"></ImageView>
+
+
+
+    <TextView
+        android:id="@+id/question_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="234dp"
+        android:text="Siapa Favorite Boxer kamu?"
+        android:textSize="24dp" />
+
+
+    <!-- Tombol Validasi -->
+    <Spinner
+        android:id="@+id/planets_spinner"
+
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@+id/question_text"
+        android:layout_marginTop="17dp"
+        android:textSize="90dp" />
+
+    <Button
+        android:id="@+id/validate_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/planets_spinner"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"
+        android:text="Validasi"
+        android:textSize="18sp" />
+
+</RelativeLayout>

@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">YT Boxing</string>
+
+    <string name="affirmation10">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="affirmation4">Every challenge in my life is an opportunity to learn from.</string>
+    <string name="affirmation5">I have so much to be grateful for.</string>
+    <string name="affirmation6">Good things are always coming into my life.</string>
+    <string name="affirmation7">New opportunities await me at every turn.</string>
+    <string name="affirmation8">I have the courage to follow my heart.</string>
+    <string name="affirmation9">Things will unfold at precisely the right time.</string>
+
+    <string name="boxer01">KSI.</string>
+    <string name="boxer02">Jake Paul.</string>
+    <string name="boxer03">Salt Papi</string>
+    <string name="boxer04">Deji</string>
+    <string name="boxer05">Tommy Fury</string>
+    <string name="boxer06">Slim Albaher</string>
+
+
+    <string name="score01">5-1-1</string>
+    <string name="score02">3-2-0</string>
+    <string name="score03">8-3-1</string>
+    <string name="score04">2-4-1</string>
+    <string name="score05">10-0-1</string>
+    <string name="score06">7-0-0</string>
+
+    <string name="scoreText">Skor:</string>
+
+    //radio
+    <string name="checked">checked</string>
+    <string name="unchecked">unchecked</string>
+    <string name="RD_01">Male Fighther</string>
+    <string name="RD_02">Female Fighther</string>
+
+    //spinner
+    <string-array name="Boxers">
+        <item>anesongib</item>
+        <item>bryce_hall</item>
+        <item>deji</item>
+        <item>jake_paul</item>
+        <item>ksi</item>
+        <item>salt_papi</item>
+        <item>slim_albaher</item>
+        <item>swarmz</item>
+        <item>tommy_fury</item>
+        <item>walid_sharks</item>
+    </string-array>
+
+
+    <string name="ali_stair">Ali Stair is worth $1 million.</string>
+    <string name="anderson_silva">Anderson Silva is worth $2 million.</string>
+    <string name="andrei_arlovski">Andrei Arlovski is worth $3 million.</string>
+    <string name="bj_penn">BJ Penn is worth $4 million.</string>
+    <string name="brock_lesnar">Brock Lesnar is worth $5 million.</string>
+    <string name="conor_mcgregor">Conor McGregor is worth $6 million.</string>
+    <string name="georges_st_pierre">Georges St-Pierre is worth $7 million.</string>
+    <string name="khabib_nurmagomedov">Khabib Nurmagomedov is worth $8 million.</string>
+    <string name="rorion_gracie">Rorion Gracie is worth $9 million.</string>
+    <string name="tito_ortiz">Tito Ortiz is worth $10 million.</string>
+
+
+    //pasta
+    <string name="pastaIngredients">Pasta
+\nCream Cheese
+\nParmesan Cheese
+\nOlive Oil
+\nGarlic
+\nSalt Pepper</string>
+    <string name="pastaDesc">Cook your pasta until al dente
+\nSaute’ garlic in olive oil until fragrant
+\nAdd cream cheese, pasta cooking water, parmesan, and stir well
+\nDrain and add pasta to the skillet
+\nToss until well combined, adding some pasta water if needed</string>
+    //maggi
+    <string name="maggiIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="maggieDesc">Add one and half cup of water
+\nAdd maggi noodles and boil it
+\nAdd the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //cake
+    <string name="cakeIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="cakeDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //pancake
+    <string name="pancakeIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="pancakeDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //pizza
+    <string name="pizzaIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="pizzaDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //burgers
+    <string name="burgerIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="burgerDesc">Add one and half cup of water
+\nAdd maggi noodles and boil it
+\nAdd the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //fries
+    <string name="friesIngredients">Maggi Noodles
+\nWater
+\nMaggi Masala</string>
+    <string name="friesDesc">Add one and half cup of water
+\nAdd maggi noodles and boil it
+\nAdd the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="hc">Weight: 10kg\nMaterial: Plastic+Fabric\nDimension: 45cm x 60cm x 110cm\nMore: This chair can support loads up to 100kg and Maximum Height from floor to seat approximately 50cm</string>
+    <string name="ec">Weight: 26kg \nMaterial: Leather+Chrome\nDimension: 69cm x 69cm x 110-120cm\n\nMore: This chair can support loads up to 130kg, Maximum Height from floor to seat approximately 50cm</string>
+    <string name="et">Weight: 32kg\nMaterial: MDF Wood+Carbon Steel\nDimension: 3m x 2.4m x 0.8m\nMore: This table features 4 drawers that are easy to use and also boasts an elegant design</string>
+
+
+
+
+</resources>
+

@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp">
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/containedButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+        android:text="Redirecting to other page ...."
+        app:icon="@drawable/other"
+        style="@style/Widget.MaterialComponents.Button.Icon"
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:elevation="8dp"
+        app:cornerRadius="20dp"
+        app:iconSize="30dp"
+        android:textAlignment="center"/>
+</LinearLayout>
